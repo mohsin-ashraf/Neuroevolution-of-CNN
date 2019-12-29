@@ -1,5 +1,4 @@
-# fyp
-Final Year Project
+# Research Project
 
 ## documentation
 
